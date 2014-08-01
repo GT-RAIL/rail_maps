@@ -2,6 +2,14 @@
 Changelog for package rail_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.3 (2014-08-01)
+------------------
+* rotated map
+* Merge pull request #3 from Spkordell/develop
+  Updated rail_lab map
+* Updated rail_lab map
+* Contributors: Russell Toris, Steven Kordell
+
 0.2.2 (2014-07-31)
 ------------------
 * Merge pull request #2 from Spkordell/develop
