@@ -2,6 +2,11 @@
 Changelog for package rail_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.4 (2014-08-27)
+------------------
+* Maps of new RAIL Lab
+* Contributors: Russell Toris
+
 0.2.3 (2014-08-01)
 ------------------
 * rotated map
