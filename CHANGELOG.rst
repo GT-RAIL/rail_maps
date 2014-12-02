@@ -2,6 +2,11 @@
 Changelog for package rail_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.5 (2014-12-02)
+------------------
+* Rail lab with no furniture, for navigation that handles the furniture dynamically
+* Contributors: David Kent
+
 0.2.4 (2014-08-27)
 ------------------
 * Maps of new RAIL Lab
